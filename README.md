@@ -1,21 +1,21 @@
-![alt text](Images/1)
+![alt text](Images/1.png)
 
 ----------------------
 
-![alt text](Images/2)
+![alt text](Images/2.png)
 
 ----------------------
 
-![alt text](Images/3)
+![alt text](Images/3.png)
 
 ----------------------
 
-![alt text](Images/4)
+![alt text](Images/4.png)
 
 ----------------------
 
-![alt text](Images/5)
+![alt text](Images/5.png)
 
 ----------------------
 
-![alt text](Images/6)
+![alt text](Images/6.png)
